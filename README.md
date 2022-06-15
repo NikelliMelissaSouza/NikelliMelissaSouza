@@ -1,0 +1,4 @@
+- 👍Olá meu nome é @NikelliMelissaSouza
+- 👍meu e-mail de contato é @nikelli.souza@escola.pr.gov.br
+- 👍eu estou interessado em aprender novas linguagens
+-:+eu estou aprendendo programar recentemente a linguagem javaScript e scratch
